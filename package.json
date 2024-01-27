@@ -1,0 +1,20 @@
+{
+  "name": "api-testing-using-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rusdan",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^5.0.0",
+    "cypress": "^13.6.3",
+    "prettier": "^3.2.4"
+  },
+  "dependencies": {
+    "cypress-mochawesome-reporter": "^3.8.1",
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}
